@@ -20,7 +20,7 @@ cd MEDICAL-CHATBOT
 ### **Step 2: Set Up a Conda Environment**
 Create and activate a new Conda environment:
 ```bash
-conda create -n medibot python=3.10 -y
+conda create -n medibot python=3.12 -y
 conda activate medibot
 ```
 
