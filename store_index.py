@@ -1,6 +1,5 @@
 from source.utility import load_pdf_file, text_splitter, download_hugging_face_embedding
 import os
-# import pinecone
 from dotenv import load_dotenv
 from pinecone import Pinecone, ServerlessSpec
 from langchain_pinecone import PineconeVectorStore
