@@ -86,5 +86,5 @@ Now, you’re all set to use the **Medical Chatbot**! 🚀
 - Python  
 - LangChain  
 - Flask  
-- GPT  
+- Gemini
 - Pinecone
