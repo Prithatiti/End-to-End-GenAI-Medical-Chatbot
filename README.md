@@ -1,4 +1,4 @@
-# Medical Chatbot
+# End to End GenAI Medical Chatbot
 
 ## 🚀 Overview
 The **Medical Chatbot** is an AI-powered assistant designed to provide medical information and answer queries. This guide walks you through setting up and running the chatbot on your local machine.
@@ -86,5 +86,5 @@ Now, you’re all set to use the **Medical Chatbot**! 🚀
 - Python  
 - LangChain  
 - Flask  
-- GPT  
+- Gemini
 - Pinecone
