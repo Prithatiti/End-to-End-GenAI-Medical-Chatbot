@@ -3,6 +3,8 @@
 ## 🚀 Overview
 The **Medical Chatbot** is an AI-powered assistant designed to provide medical information and answer queries. This guide walks you through setting up and running the chatbot on your local machine.
 
+![Medical Chatbot Using RAG Application](https://github.com/user-attachments/assets/6a7c7604-1a69-4dd0-8828-f1cac1188b8f)
+
 ---
 
 ## 🛠️ Installation and Setup Guide:~
